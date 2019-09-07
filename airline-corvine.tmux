@@ -8,7 +8,7 @@ main() {
   gray="#C6C6C6"
   dark_gray="#626262"
   light_purple="#87AFD7"
-  dark_purple="#87D7FF"
+  dark_purple="#AFAFD7"
   cyan="#87D7D7"
   pink="#AFAFD7"
   orange="#FFAFAF"
