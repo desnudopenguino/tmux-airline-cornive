@@ -1,6 +1,6 @@
-# tmux-airline-dracula
+# tmux-airline-corvine
 
-A tmux theme for Dracula color scheme.
+A tmux theme for Corvine color scheme.
 
 ## Installation
 
